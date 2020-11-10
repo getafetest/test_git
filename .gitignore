@@ -1,4 +1,4 @@
 # Definimos la ruta de archivos que no queremos
-# que vayan al control de versiones
+# que vayan al control de versiones de git
 
 /herramientas
