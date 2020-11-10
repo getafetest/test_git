@@ -1,0 +1,4 @@
+# Definimos la ruta de archivos que no queremos
+# que vayan al control de versiones
+
+/herramientas
